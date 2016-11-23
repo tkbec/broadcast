@@ -1,3 +1,3 @@
 function(){
-document.getElementById("boradcast").innerHTML = '<p></p>';
+document.getElementById("borad_cast").innerHTML = '<p></p>';
 }
